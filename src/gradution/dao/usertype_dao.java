@@ -1,6 +1,8 @@
 
-package gradution;
+package gradution.dao;
 
+import gradution.db.database;
+import gradution.model.usertype;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -8,10 +10,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author SMART
- */
+
 public class usertype_dao {
     
        public List<usertype> getAllTypes() {

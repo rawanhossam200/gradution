@@ -1,5 +1,5 @@
 
-package gradution;
+package gradution.model;
 
 import java.util.Date;
 

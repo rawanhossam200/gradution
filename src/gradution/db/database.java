@@ -1,5 +1,5 @@
 
-package gradution;
+package gradution.db;
 
 import java.net.URL;
 import java.sql.Connection;
