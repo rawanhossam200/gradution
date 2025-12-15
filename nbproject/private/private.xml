@@ -3,16 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/FinalProject/gradution/src/gradution/db/database.java</file>
-            <file>file:/D:/FinalProject/gradution/src/gradution/model/users.java</file>
-            <file>file:/D:/FinalProject/gradution/src/gradution/model/appointment.java</file>
-            <file>file:/D:/FinalProject/gradution/src/gradution/model/medicaldocument.java</file>
-            <file>file:/D:/FinalProject/gradution/src/gradution/model/medicalhistory.java</file>
-            <file>file:/D:/FinalProject/gradution/src/gradution/patient.java</file>
-            <file>file:/D:/FinalProject/gradution/src/gradution/model/usertype.java</file>
+            <file>file:/D:/FinalProject/gradution/src/gradution/dao/appointment_dao.java</file>
+            <file>file:/D:/FinalProject/gradution/src/gradution/dao/medicalhistory_dao.java</file>
+            <file>file:/D:/FinalProject/gradution/src/gradution/dao/treatmentfollow_dao.java</file>
+            <file>file:/D:/FinalProject/gradution/src/gradution/dao/users_dao.java</file>
             <file>file:/D:/FinalProject/gradution/src/gradution/dao/usertype_dao.java</file>
             <file>file:/D:/FinalProject/gradution/src/gradution/Gradution.java</file>
-            <file>file:/D:/FinalProject/gradution/src/gradution/model/treatmentfollow.java</file>
+            <file>file:/D:/FinalProject/gradution/src/gradution/dao/medicaldocument_dao.java</file>
         </group>
     </open-files>
 </project-private>
